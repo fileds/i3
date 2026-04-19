@@ -355,7 +355,7 @@ bar {
     position       bottom
     tray_padding   2
     # font           xft:URWGothic-Book 10
-    font           xft:JetBrains Mono NF 10
+    font           xft:JetBrains Mono NF 12
     strip_workspace_numbers yes
 
     bindsym button4 nop
